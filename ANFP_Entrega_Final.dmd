@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ANFP_Entrega_Final" id="A9BC7165-2869-4DC5-8E04-C4B599F8FC70" version="3.5">
+<createdBy>fabii</createdBy>
+<createdTime>2026-10-11 22:34:33 UTC</createdTime>
+<ownerDesignName>ANFP_Entrega_Final</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A9BC7165-2869-4DC5-8E04-C4B599F8FC70</designId>
+</OSDM_Design>
